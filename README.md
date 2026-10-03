@@ -1,16 +1,13 @@
-## Hi there 👋
+## hey, i'm bougielmao 👋
 
-<!--
-**bougielmao/bougielmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student based in Japan, mostly writing Python and C++ these days. I spend a lot of time on data structures, algorithms, and small hobby projects that I build just to figure things out.
 
-Here are some ideas to get you started:
+- 🔭 A CLI tool for visualizing sorting algorithms in the terminal.
+- learning Linux the slow way
+- rewrites it once, then leaves it alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bougielmao&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=cobalt" alt="bougielmao GitHub stats" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=bougielmao&hide_border=true&theme=rogue" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Linux-e3b341?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Python-e3b341?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-e3b341?style=for-the-badge&logoColor=white" alt="C++" />
